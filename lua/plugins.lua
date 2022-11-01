@@ -29,6 +29,9 @@ return require('packer').startup({
             run = ':TSUpdate'
         }
 
+        -- nvim-floaterm
+        use 'voldikss/vim-floaterm'
+
     end,
     config = {
         display = {
