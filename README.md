@@ -7,3 +7,6 @@
 3. run `:PackerCompile` init packer
 4. run `:packerInstall` install packers
 5. install ripgrep `https://github.com/BurntSushi/ripgrep#installation`
+    * in ubuntu/debian `apt install ripgrep`
+    * in centos `yum install ripgrep` (mybe need to add repo)
+    * in macos `brew install ripgrep`

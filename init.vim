@@ -8,7 +8,7 @@ set list
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set listchars=tab:>·,space:·
+" set listchars=tab:>·,space:·
 
 " colorscheme
 colorscheme tokyonight
